@@ -5,3 +5,4 @@ Implementation of various data structures algorithms i.e. Sorting, Stack, Queue,
 	
 	* Bubble sort
 	* Insertion sort
+	* Selection sort

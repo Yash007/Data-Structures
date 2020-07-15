@@ -24,8 +24,10 @@ class Algorithm  {
             }
 
             numbers[j + 1] = key;
+
         }
     }
+
 }
 public class InsertionSort {
     public static void main(String[] args) {
