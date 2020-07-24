@@ -10,3 +10,4 @@ Implementation of various data structures algorithms i.e. Sorting, Stack, Queue,
     * [Recursive Binary search](https://github.com/Yash007/Data-Structures/tree/master/src/com/yash/learn/search/binary/recursive/BinarySearchRecursive.java)
 3. [Stack](https://github.com/Yash007/Data-Structures/tree/master/src/com/yash/learn/stack)
     * [Simple integer Stack](https://github.com/Yash007/Data-Structures/tree/master/src/com/yash/learn/stack/basic/Stack.java)
+    * [Inbuilt Stack Class](https://github.com/Yash007/Data-Structures/tree/master/src/com/yash/learn/stack/inbuilt/Algorithm.java)
